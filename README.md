@@ -67,8 +67,4 @@ Do the same for the other tasks.
 
   
 
----
 
-## 📜 License
-
-This project is for educational purposes only.
