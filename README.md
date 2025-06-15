@@ -63,9 +63,9 @@ Do the same for the other tasks.
 
 ## 👨‍💻 Author
 
-- Name: [Your Name]
-- Internship: CodTech IT Solutions Pvt. Ltd.
-- Duration: [e.g., May 2025 – June 2025]
+- Name: Heer Darji
+
+  
 
 ---
 
